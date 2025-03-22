@@ -14,8 +14,7 @@ Follow these steps to set up and run the project on your local system:
 - If not installed, download and install [Node.js](https://nodejs.org/).  
 
 ## **4️⃣ Install Dependencies**  
-- Open the **bash terminal** in VS Code and run the following command: npm install --legacy-peer-deps vite
--   
+- Open the **bash terminal** in VS Code and run the following command: npm install --legacy-peer-deps vite 
 
 ## **5️⃣ Start the Development Server**  
 - Run the following command to start the project: npm run dev
